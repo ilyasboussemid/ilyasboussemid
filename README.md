@@ -22,17 +22,23 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,postgres,mysql,git&theme=dark" alt="Tech Stack 1" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC292B" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top; margin-left:4px;" alt="MSSQL" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top; margin-left:4px;" alt="Oracle" />
+  <!-- Languages, Frameworks & Cloud -->
+  <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,git,postgres,mysql&theme=dark" alt="Tech Stack" />
+  <!-- MSSQL & Oracle avec design assorti -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Custom-Icons/mssql.svg" onerror="this.onerror=null; this.src='https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23CC292B'" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top;" alt="MSSQL" />
+  <img src="https://api.iconify.design/simple-icons:oracle.svg?color=%23F80000" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top;" alt="Oracle" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-profil-linkedin/](https://www.linkedin.com/in/ilyas-boussemid-a0577a334/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyas.boussemid@gmail.com)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/ilyas-boussemid-a0577a334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ilyas.boussemid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
