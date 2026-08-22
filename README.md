@@ -23,10 +23,8 @@
 
 <p align="left">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,ts,react,nextjs&theme=dark" alt="Tech Stack 1" />
-  <br/>
-  <!-- Cloud, DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,git,github,vscode&theme=dark" alt="Tech Stack 2" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,&theme=dark" alt="Tech Stack 1" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,git&theme=dark" alt="Tech Stack 2" />
 </p>
 
 ---
