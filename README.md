@@ -23,6 +23,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,postgres,mysql,mssql,oracle,git&theme=dark" alt="Tech Stack 1" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Custom-Icons/mssql.svg" onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top; margin-right:4px;" alt="MSSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top;" alt="Oracle" />
 </p>
 
 ---
