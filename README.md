@@ -22,23 +22,17 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,postgres,mysql,mssql,oracle,git&theme=dark" alt="Tech Stack 1" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Custom-Icons/mssql.svg" onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top; margin-right:4px;" alt="MSSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top;" alt="Oracle" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,postgres,mysql,git&theme=dark" alt="Tech Stack 1" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC292B" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top; margin-left:4px;" alt="MSSQL" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" style="background:#242938; padding:8px; border-radius:12px; vertical-align:top; margin-left:4px;" alt="Oracle" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="[https://linkedin.com/in/ilyasbousssemid](https://www.linkedin.com/in/ilyas-boussemid-a0577a334/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ilyas.boussemid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/ilyasboussemid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-profil-linkedin/](https://www.linkedin.com/in/ilyas-boussemid-a0577a334/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyas.boussemid@gmail.com)
+
