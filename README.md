@@ -22,9 +22,7 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,&theme=dark" alt="Tech Stack 1" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,git&theme=dark" alt="Tech Stack 2" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,postgres,mysql,mssql,oracle,git&theme=dark" alt="Tech Stack 1" />
 </p>
 
 ---
