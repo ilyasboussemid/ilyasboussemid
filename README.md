@@ -2,6 +2,7 @@
   <h1>Hi 👋, I'm Ilyas Boussemid</h1>
   <h3>Software Engineer student @ENSIAS</h3>
   <p>Engineering student passionate about building scalable cloud solutions architectures.</p>
+  <p>AWS Certified Solutions Architect Associate</p>
 </div>
 
 ---
