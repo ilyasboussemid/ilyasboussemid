@@ -2,18 +2,24 @@
   <h1>Hi 👋, I'm Ilyas Boussemid</h1>
   <h3>Software Engineer student @ENSIAS</h3>
   <p>Engineering student passionate about building scalable cloud solutions architectures.</p>
-  <p>AWS Certified Cloud Practitionner</p>
-  <p>AWS Certified Solutions Architect Associate</p>
+  <p>
+    <a href="[YOUR_SAA_CREDLY_VERIFICATION_LINK](https://www.credly.com/badges/1cdc06d3-b506-4593-9335-32de8a2dcbe0/public_url)" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect - Associate" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="[YOUR_CLF_CREDLY_VERIFICATION_LINK](https://www.credly.com/badges/99df0561-c51b-44aa-a247-a18047f76c6f/public_url)" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" />
+    </a>
+  </p>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
 
 - 👨‍💻 Software Engineering student at ENSIAS 
-- 🔧 Specialized in **Backend & Cloud Architecture** (Java / Spring Boot, AWS)
+- 🔧 Specialized in **Backend & Cloud Architecture** (Java / Spring Boot)
 - 🧱 Experienced with **Microservices, Docker, Kubernetes, and AWS**
-- 🚀 Passionate about **Architecting Scalable Cloud Solutions, Kubernetes Orchestration, and System Reliability**
+- 🚀 Passionate about **Architecting Scalable Cloud Solutions, System Reliability, Security & HPC**
 
 📬 **Contact:** [ilyas.boussemid@gmail.com](mailto:ilyas.boussemid@gmail.com)
 
