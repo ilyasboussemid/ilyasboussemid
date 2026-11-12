@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Ilyas Boussemid</h1>
-  <h3>Software Engineer student @ENSIAS</h3>
-  <p>Engineering student passionate about building scalable cloud solutions architectures.</p>
+  <h3>Junior Cloud & Software Engineer @ENSIAS</h3>
+  <p>Engineering student passionate about building cloud & backend solutions architectures.</p>
   <p>
     <a href="[YOUR_SAA_CREDLY_VERIFICATION_LINK](https://www.credly.com/badges/1cdc06d3-b506-4593-9335-32de8a2dcbe0/public_url)" target="_blank">
       <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect - Associate" />
