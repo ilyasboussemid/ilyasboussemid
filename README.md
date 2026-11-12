@@ -23,7 +23,7 @@
 
 <p align="left">
   <!-- Stack principale (SkillIcons) -->
-  <img src="https://skillicons.dev/icons?i=java,python,django,spring,docker,kubernetes,aws,terraform,git,postgres,mysql&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,docker,kubernetes,aws,terraform,git,postgres,mysql&theme=dark" alt="Tech Stack" />
   <!-- Microsoft SQL Server (Devicon CDN) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" style="background:#242938; padding:6px; border-radius:12px; vertical-align:top;" alt="MSSQL" />
   <!-- Oracle (Devicon CDN) -->
