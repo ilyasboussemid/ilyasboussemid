@@ -12,7 +12,6 @@
     </a>
   </p>
 </div>
----
 
 ### 👨‍💻 About Me
 
@@ -21,7 +20,7 @@
 - 🧱 Experienced with **Microservices, Docker, Kubernetes, and AWS**
 - 🚀 Passionate about **Architecting Scalable Cloud Solutions, System Reliability, Security & HPC**
 
-📬 **Contact:** [ilyas.boussemid@gmail.com](mailto:ilyas.boussemid@gmail.com)
+📬 **Contact:** [boussemid.ilyas@gmail.com](mailto:boussemid.ilyas@gmail.com)
 
 ---
 
